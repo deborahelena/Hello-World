@@ -1,2 +1,2 @@
 # Hello World
- First projesct and test in gitHub
+ First project and test in gitHub
